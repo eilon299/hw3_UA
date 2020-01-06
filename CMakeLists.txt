@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.15)
-project(ex3)
+project(hw3_UA)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(ex3 main.cpp UniqueArray.h UniqueArrayImp.h)
+add_executable(hw3_UA main.cpp UniqueArray.h UniqueArrayImp.h)
